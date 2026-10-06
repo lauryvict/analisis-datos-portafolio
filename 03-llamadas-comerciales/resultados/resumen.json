@@ -1,0 +1,103 @@
+{
+  "limpieza": {
+    "archivos": 16,
+    "filas_originales": 192325,
+    "duplicados_quitados": 12,
+    "fechas_ilegibles_quitadas": 0,
+    "llamada_posterior_al_reclamo_quitadas": 9276,
+    "llamadas_antes_1_sep_quitadas": 4810,
+    "filas_finales": 178227,
+    "pct_hora_desconocida": 7.7,
+    "pct_numero_invalido_o_vacio": 5.2,
+    "pct_robocall_sin_dato": 6.7
+  },
+  "analisis": {
+    "pct_tipo_llamada": {
+      "Automatizada": 69.8,
+      "Con persona": 23.4,
+      "Sin dato": 6.7
+    },
+    "temas_top5": {
+      "Otro": {
+        "reclamos": 70510,
+        "pct_auto": 65.1,
+        "pct": 39.6
+      },
+      "Reducir deudas": {
+        "reclamos": 44366,
+        "pct_auto": 89.7,
+        "pct": 24.9
+      },
+      "Suplantación (gobierno, empresas, familia)": {
+        "reclamos": 17687,
+        "pct_auto": 71.3,
+        "pct": 9.9
+      },
+      "Llamada cortada o sin mensaje": {
+        "reclamos": 14326,
+        "pct_auto": 54.5,
+        "pct": 8.0
+      },
+      "Sin tema": {
+        "reclamos": 12194,
+        "pct_auto": 52.4,
+        "pct": 6.8
+      }
+    },
+    "pct_llamadas_fin_de_semana": 6.6,
+    "pct_llamadas_9_a_17h": 74.9,
+    "pct_llamadas_antes_8_o_despues_21h": 5.5,
+    "hora_pico": 12,
+    "segmento_numeros": {
+      "1 reclamo": {
+        "numeros": 138944,
+        "reclamos": 138944,
+        "pct_numeros": 93.6,
+        "pct_reclamos": 82.3
+      },
+      "2 a 4": {
+        "numeros": 8943,
+        "reclamos": 19963,
+        "pct_numeros": 6.0,
+        "pct_reclamos": 11.8
+      },
+      "5 a 19": {
+        "numeros": 503,
+        "reclamos": 3924,
+        "pct_numeros": 0.3,
+        "pct_reclamos": 2.3
+      },
+      "20 o más": {
+        "numeros": 100,
+        "reclamos": 6055,
+        "pct_numeros": 0.1,
+        "pct_reclamos": 3.6
+      }
+    },
+    "intervalo_horas_mediana_numeros_5mas": 0.4,
+    "pct_intervalos_menos_1h": 63.0,
+    "pct_intervalos_menos_24h": 88.4,
+    "dias_activos_mediana_numeros_5mas": 3.0,
+    "pct_auto_por_segmento": {
+      "1 reclamo": 68.6,
+      "2 a 4": 70.8,
+      "5 a 19": 74.2,
+      "20 o más": 90.0
+    },
+    "pct_region": {
+      "Sur": 43.0,
+      "Oeste": 22.8,
+      "Medio Oeste": 19.7,
+      "Noreste": 13.8,
+      "Otro / sin dato": 0.7
+    },
+    "top5_estados": {
+      "California": 18941,
+      "Florida": 17331,
+      "Texas": 14380,
+      "Illinois": 8153,
+      "Pennsylvania": 7117
+    },
+    "pct_reclamo_mismo_dia_o_siguiente": 81.6
+  }
+}

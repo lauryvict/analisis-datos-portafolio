@@ -1,0 +1,66 @@
+{
+  "limpieza": {
+    "filas_Divvy_Trips_2019_Q2.csv": 1108163,
+    "filas_Divvy_Trips_2019_Q3.csv": 1640718,
+    "filas_Divvy_Trips_2019_Q4.csv": 704054,
+    "filas_Divvy_Trips_2020_Q1.csv": 426887,
+    "filas_unidas": 3879822,
+    "valores_member_casual": {
+      "member": 2973868,
+      "casual": 905954
+    },
+    "quitadas_duplicadas": 0,
+    "quitadas_HQ_QR": 3767,
+    "quitadas_duracion_cero_o_negativa": 13,
+    "quitadas_mas_de_24h": 1947,
+    "quitadas_sin_tipo_o_estacion": 0,
+    "filas_finales": 3874095
+  },
+  "resultados": {
+    "viajes": {
+      "casual": 900675,
+      "member": 2973420
+    },
+    "pct_viajes": {
+      "casual": 23.2,
+      "member": 76.8
+    },
+    "duracion_media_min": {
+      "casual": 39.6,
+      "member": 12.9
+    },
+    "duracion_mediana_min": {
+      "casual": 25.7,
+      "member": 9.8
+    },
+    "pct_ida_y_vuelta_misma_estacion": {
+      "casual": 12.0,
+      "member": 1.8
+    },
+    "pct_fin_de_semana": {
+      "casual": 43.3,
+      "member": 18.7
+    },
+    "hora_pico": {
+      "casual": 17,
+      "member": 17
+    },
+    "dia_pico": {
+      "casual": "Sábado",
+      "member": "Martes"
+    },
+    "mes_pico": {
+      "casual": "Ago",
+      "member": "Ago"
+    },
+    "pct_casual_jun_ago": 54.6,
+    "pct_member_jun_ago": 38.0,
+    "top3_estaciones_casual": {
+      "Streeter Dr & Grand Ave": 53376,
+      "Lake Shore Dr & Monroe St": 39656,
+      "Millennium Park": 21879
+    },
+    "pct_casual_en_top10_estaciones": 25.4,
+    "pct_member_en_top10_estaciones": 11.4
+  }
+}
